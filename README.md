@@ -6,7 +6,7 @@
 
 -FallGraph: The FGraph dataset
 
--CallGraph: CGraph dataset
+-CallGraph: The CGraph dataset
 
 Each dataset includes the following files:
 
