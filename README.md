@@ -4,13 +4,9 @@
 
 -CommonHHJ: Toolkit for reading and writing CSV files
 
--CTerGraph: CTerGraph dataset
+-FallGraph: The FGraph dataset
 
--FTerGraph: FTerGraph dataset
-
--FallGraph: The FallGraph dataset
-
--CallGraph: CallGraph dataset
+-CallGraph: CGraph dataset
 
 Each dataset includes the following files:
 
