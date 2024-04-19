@@ -32,7 +32,7 @@ Ensure that all the above files exist during runtime.
 
 
 
-2、 Code Run
+2、 Code Running
 
 Running environment: pytorch, DGL cu111, numpy, pandas
 
